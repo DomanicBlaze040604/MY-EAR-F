@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734528398908",
+    "project_id": "my-ear-99a1b",
+    "storage_bucket": "my-ear-99a1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734528398908:android:d76ce4b88a59bff79bc539",
+        "android_client_info": {
+          "package_name": "com.example.my_ear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfR1Dayo2oF9hdYJouTp25Rm7Au_RU5CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734528398908:android:8b29119c4a2dd3519bc539",
+        "android_client_info": {
+          "package_name": "com.example.my_ear_app_fixed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfR1Dayo2oF9hdYJouTp25Rm7Au_RU5CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
