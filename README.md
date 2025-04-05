@@ -91,4 +91,17 @@ Globally, millions of people with hearing impairments face daily challenges in c
 - 📧 **Contact Email:** mk7164798@gmail.com  
 
 ---
+## 🎥 Media & Resources
+
+To help you better understand the My Ear App, we've compiled all supporting media including:
+
+- Final video explanation (3 minutes)
+- Team photos
+- App usage demonstrations
+- Screenshots of UI/UX
+- Pitch visuals
+
+Access them here:  
+[📁 Google Drive Folder – Media & Explanation](https://drive.google.com/drive/folders/1vKbuFCiVzQ0DY4agGUqSh2sSxJcOHblO?usp=drive_link)
+
 
